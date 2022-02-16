@@ -3,9 +3,6 @@ Naver / Daum
 
 BeautifulSoup
 requests
-[DBP본부] 운영/소개 > [소셜 채널 관리] 연관검색어 스크래핑 > 스크린샷 2022-02-07 오전 10.45.57.png
-
-[DBP본부] 운영/소개 > [소셜 채널 관리] 연관검색어 스크래핑 > 스크린샷 2022-02-07 오전 10.49.09.png
 
 재귀함수를 사용하여 Depth 1로 연관검색어를 스크래핑 한다.
 
@@ -118,7 +115,6 @@ def daum_crawling_related_word(word_list, n):
 Google
 requests_html(https://docs.python-requests.org/projects/requests-html/en/latest/)
 css flex box의 태그 값들을 크롤링 할 수있다. (google, bing)
-[DBP본부] 운영/소개 > [소셜 채널 관리] 연관검색어 스크래핑 > 스크린샷 2022-02-07 오전 10.49.18.png [DBP본부] 운영/소개 > [소셜 채널 관리] 연관검색어 스크래핑 > 스크린샷 2022-02-07 오전 10.46.37.png
 
 
 ```
@@ -229,9 +225,3 @@ def netword_drawing(re_df):
 netword_drawing(re_df)
 
 ```
-
-
-
-
-
-[DBP본부] 운영/소개 > [소셜 채널 관리] 연관검색어 스크래핑 > image2022-2-7_11-21-5.png
